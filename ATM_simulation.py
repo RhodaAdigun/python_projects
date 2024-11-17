@@ -36,9 +36,9 @@ def menu():
         balance(acc_balance)
     elif user_choice == "2" or user_choice.lower =="deposit money":
         deposit(acc_balance)
-    elif user_choice.lower() == "3" or user_choice.lower == "withdraw money":
+    elif user_choice == "3" or user_choice.lower == "withdraw money":
         withdraw(acc_balance)
-    elif user_choice.lower() == "4" or user_choice.lower == "exit":
+    elif user_choice == "4" or user_choice.lower == "exit":
         print("Thank you for banking with us")
         exit()
     else:
