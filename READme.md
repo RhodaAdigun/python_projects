@@ -28,3 +28,10 @@ Objectives:
 - The Hangman's drawing is completed(changes) with every wron letter guessed
 - potential errors are handled
 
+
+
+**Password Generator**
+
+Objectives:
+- generates/customizes strong passwords based on user-defined criteria such as length, 
+character types (uppercase, lowercase, digits, special character), and other requirements
