@@ -7,6 +7,7 @@ Objectives:
 - user choice is captured through input and handled
 
 
+
 **Rock, paper, scissors**
 
 Objectives:
@@ -15,3 +16,15 @@ Objectives:
 - The computer also randomly chooses between rock, paper and scissors.
 - A function takes both computer and player's choice and decides who wins.
 - possibilities for invalid input are handled
+
+
+
+**Hangman game**
+
+Objectives:
+- A word is choosen randomly from the list of "words"
+- the player guesses letters to figure out the hidden word
+- The player has a limited number of attempts to guess the word
+- The Hangman's drawing is completed(changes) with every wron letter guessed
+- potential errors are handled
+
